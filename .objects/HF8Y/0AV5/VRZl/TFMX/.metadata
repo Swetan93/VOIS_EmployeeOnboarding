@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add text",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "TFMXpLFBNE6RVUy98qj5Og",
+  "Reference": "_3OB9R7Dg06zEPThBs96xA/TFMXpLFBNE6RVUy98qj5Og",
+  "ParentRef": "_3OB9R7Dg06zEPThBs96xA/VRZlTEnNnU--2aSo-g8vrA",
+  "Created": "2026-02-21T11:05:26.8918979Z",
+  "Updated": "2026-02-21T11:05:26.8918979Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NCVOiKvyBUWeEPhBauw3Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.the-qrcode-generator.com/qrcodes" CVScreenId="486b301b-b17f-4be4-b510-486a642210cc" CvElementArea="1015, 858, 180, 55" CvTextArea="1077, 876, 54, 22" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="1017, 861, 176, 52" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' /&gt;" Guid="1474f08c-28bf-4192-b93c-9368a946be12" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="486b301b-b17f-4be4-b510-486a642210cc" CvElementArea="1215, 858, 179, 56" CvTextArea="1267, 874, 74, 24" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="1217, 861, 176, 52" ElementType="Button" FuzzySelectorArgument="&lt;wnd ctrlid='2' title='Cancel' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='Cancel' /&gt;" Guid="67f2f657-d04d-40af-8f58-eea5943f6f4f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e5e7e28eb0d1a5371563dedf8e21cc5.jpg" xmlns="">0VEmaSM_6pUawG2g-M1Qj-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

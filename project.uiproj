@@ -1,0 +1,6 @@
+{
+  "Name": "VOIS_EmployeeData",
+  "ProjectType": "Process",
+  "Description": "Employee data entering for vois\r\n",
+  "MainFile": "Main.xaml"
+}

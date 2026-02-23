@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Next",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "j0rXD6JCdUmv9UfwXBKRkg",
+  "Reference": "_3OB9R7Dg06zEPThBs96xA/j0rXD6JCdUmv9UfwXBKRkg",
+  "ParentRef": "_3OB9R7Dg06zEPThBs96xA/VRZlTEnNnU--2aSo-g8vrA",
+  "Created": "2026-02-21T11:08:38.6959467Z",
+  "Updated": "2026-02-21T11:08:38.6959467Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

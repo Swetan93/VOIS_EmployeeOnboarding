@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FUi7AIA4i0uFMMTOHL_g6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="the-qrcode-generator.com" CVScreenId="30ae5f60-848a-47fa-9a91-2df4c3042a53" DesignTimeRectangle="963, 757, 149, 134" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='campaign-list' tag='DIV' data-tab-target='tab-content-txt' visibleinnertext='Plain Text' /&gt;" Guid="4ee6677a-6f0e-435b-8fda-4313e8caebb4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator (TQRCG): Create Free QR Codes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="30ae5f60-848a-47fa-9a91-2df4c3042a53" DesignTimeRectangle="1161, 757, 88, 134" FuzzySelectorArgument="&lt;webctrl class='widget_input_tab_header' type='' parentid='campaign-list' tag='DIV' aaname='                                                           App                        ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='App' /&gt;" Guid="da4ca373-0880-4076-adce-e76a773fb869" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="470d0bd9486d54acf1f28cf7ee91bc20.jpg" xmlns="">0KSYAPadUmkO7Zx0ePHpPRQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

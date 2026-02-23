@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7CEkUDshW0WdX--Zd363Tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="the-qrcode-generator.com" CVScreenId="6befecaf-e14c-4bcd-a72f-25fa3d050cec" CvTextArea="1971, 1467, 76, 30" CvTextArgument="Save" CvType="Text" DesignTimeRectangle="1810, 1436, 513, 96" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='widget_output_utility_btn' tag='DIV' /&gt;" Guid="dae2e3d0-da58-4e46-a2f0-e7c3ca128377" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator (TQRCG): Create Free QR Codes' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1838, 867, 485, 485" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='generated-qr-code-img-src' tag='IMG' /&gt;" Guid="fba16800-0108-4203-80e8-6e37a2412128" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="68bcfd054e148d1ea038821c8d7213e3.jpg" xmlns="">0QyzN4TleK0q7TS6Dlu0anw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

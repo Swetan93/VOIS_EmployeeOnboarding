@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4BnNNtAiXU-eGCkEHzU2eg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.the-qrcode-generator.com/qrcodes/new" CVScreenId="586b94ee-53cc-44e3-a510-7f113f6674ee" CvElementArea="2085, 1203, 519, 92" CvTextArea="2309, 1233, 72, 30" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="2091, 1207, 510, 86" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-a9ic6p' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Next' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' visibleinnertext='Next' check:innerText='Next' /&gt;" Guid="f1c8e47f-0c32-4238-b1c4-d6bcff37a426" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="586b94ee-53cc-44e3-a510-7f113f6674ee" CvElementArea="2085, 1203, 519, 92" CvTextArea="2309, 1233, 72, 30" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="2313, 1231, 66, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Next' parentid=':r85:' tag='SPAN' type='' class='MuiBox-root css-rrm59m' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Next' /&gt;" Guid="0db98e90-ca90-427f-a969-dbc6c14265eb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bbe34c230b024fa64167ec4ff4a7016b.jpg" xmlns="">0DYk1IKsC4k-Vv01VBtON5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

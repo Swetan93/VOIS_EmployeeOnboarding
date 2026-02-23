@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Create QR Code",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YoV62PVqkUCCXZvogkJ4Sg",
+  "Reference": "_3OB9R7Dg06zEPThBs96xA/YoV62PVqkUCCXZvogkJ4Sg",
+  "ParentRef": "_3OB9R7Dg06zEPThBs96xA/VRZlTEnNnU--2aSo-g8vrA",
+  "Created": "2026-02-21T11:04:00.7344084Z",
+  "Updated": "2026-02-21T11:04:00.7344084Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
